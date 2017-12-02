@@ -10,7 +10,7 @@ int main()
 { AnaEkran();
     return 0;
 }
-void AnaEkran()
+    void AnaEkran()
 {
     cout<<"Mevcut Bakiyeniz ="<<Bakiye<<"TL dir..\nPara Yatirmak icin 1->'e\nPara Cekmek icin 2->'ye basiniz...\n";
     int secim;
