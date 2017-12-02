@@ -1,4 +1,4 @@
-Merhaba arkadaşlar bu yazımızda C++ ile Matris yazacağız. Yazdığımız programda kullanıcı matrisin kaça kaçlık bir matris olduğunu
+/*Merhaba arkadaşlar bu yazımızda C++ ile Matris yazacağız. Yazdığımız programda kullanıcı matrisin kaça kaçlık bir matris olduğunu
 belirleyecek ve tüm değerleri kendisinin girmesini isteyeceğiz. Tüm değerler girildikten sonra Matrisin tamamlanmış hali kullanıcıya 
 gösterilecek ve girilen En Büyük sayı ile girilen Ek Küçük sayi yine ekrana yazılacak. 
 
@@ -6,7 +6,7 @@ gösterilecek ve girilen En Büyük sayı ile girilen Ek Küçük sayi yine ekra
  For , if ve dizi ile yazılan bu program Programlama sınavlarında çıkma ihtimali olan bir programdır. Algoritmasını kurduğunuz 
  taktirde yazması oldukça basit olan programın kodlarını aşşağıda açıklamalı bir şekilde paylaştık. Yaşadığınız sorunları veya
  tam olarak anlatamadığımız yerleri yorum olarak bırakabilirsini. İyi çalışmalar...
-
+*/
 
 #include<iostream>
 using namespace std;
