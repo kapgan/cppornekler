@@ -5,7 +5,7 @@ using namespace std;
 int b[3][3],a[3][3];
 int saydir(int a[3][3])
 {   int sayac=0;
-    int b[3][3];
+
     int j,m;
      for(int i=0; i<3; i++)
         {
@@ -45,7 +45,7 @@ int cikti(int a[3][3])
 int main()
 {
     cout << "sayilari giriniz" << endl;
-    int a[3][3]; int x,sayac=0;
+     int x,sayac=0;
     for(int i=0; i<3; i++)
     {   for(int k=0; k<3; k++)
     {   cin>>x;
